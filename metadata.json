@@ -1,0 +1,7 @@
+{
+  "name": "Teacher Portfolio System",
+  "description": "A high-end, monochrome teacher management system featuring 3D UI elements, PDF analysis via Gemini, and role-based access for teachers and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
